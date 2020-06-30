@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="txt_Title">If they also like then its a match!</string>
+    <string name="privacypolicy_text">By logging in you accept our
+        <annotations type="help_link">Terms and Conditions </annotations>
+        and <annotations type="help_link">Privacy Policy</annotations>
+    </string>
+</resources>
