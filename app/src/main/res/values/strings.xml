@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">AndroidApp</string>
-    <string name="txt_Title">If they also like then its a match!</string>
-    <string name="privacypolicy_text">By logging in you accept our
-        <annotations type="help_link">Terms and Conditions </annotations>
-        and <annotations type="help_link">Privacy Policy</annotations>
+    <string name="txtTitle">If they also like then its a match!</string>
+    <string name="txtPrivacyPolicy">By logging in you accept our Terms and Conditions and Privacy Policy
     </string>
+    <string name="txtLoginWithPhnNmbr">Login Using Phone</string>
+    <string name="txtSignInWithGoogle">Sign in with Google</string>
+    <string name="txtEnterPhnNmbr">Please enter your 10 digit phone number</string>
+    <string name="txtOTP">Get OTP</string>
+    <string name="txtEnterOTP">Please enter OTP</string>
 </resources>
